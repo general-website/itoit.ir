@@ -23,7 +23,6 @@ const render = async (name) => {
 
 const scriptLoader = () => {
   const list = [
-    "https://code.jquery.com/jquery-3.4.1.min.js",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js",
     "lib/wow/wow.min.js",
     "lib/easing/easing.min.js",
